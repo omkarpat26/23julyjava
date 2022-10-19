@@ -1,1 +1,11 @@
 this is demo file for 23 julyjava
+
+we are from java batch
+ topic cover in java
+ sting
+ arraylist
+ opps
+ db
+ 
+ 
+
